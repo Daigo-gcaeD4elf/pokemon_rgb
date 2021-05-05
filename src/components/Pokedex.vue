@@ -23,7 +23,7 @@ let PokemonObj = {
     data : function() {
         return {
             showMove : false,
-            showType : true,
+            showType : false,
             poke : 25,
             pokemonList : Pokemon.Pokemon,
         }
