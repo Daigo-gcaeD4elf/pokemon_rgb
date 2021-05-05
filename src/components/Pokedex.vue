@@ -24,7 +24,7 @@ let PokemonObj = {
         return {
             showMove : false,
             showType : false,
-            poke : 25,
+            poke : 133,
             pokemonList : Pokemon.Pokemon,
         }
     },
